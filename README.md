@@ -1,5 +1,7 @@
-# MLAplicacionesAvanzadas
+# Clasificador caras de 130 personajes de anime
 
+# Analisis y evaluación
+Para ver el analisís completo del trabajo realizado, lea el documento "Analisis y evaluación de modelos" que se encuentra en el directorio raiz
 
 ## Descarga de dataset
 El dataset original proviene de https://www.kaggle.com/datasets/thedevastator/anime-face-dataset-by-character-name
